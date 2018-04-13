@@ -1,4 +1,4 @@
-﻿namespace NewTonTest
+﻿namespace WCF_Test
 {
     partial class Form1
     {
