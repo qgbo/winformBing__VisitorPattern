@@ -47,7 +47,6 @@ namespace WindowsFormNotifyProperty绑定控件
 
                 object v = Convert.ChangeType(Value, p.PropertyType);
                 p.SetValue(obj, v, null);
-
                 return true;
             }
             catch
