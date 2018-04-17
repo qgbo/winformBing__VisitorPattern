@@ -3,19 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTonTest", "NewTonTest\NewTonTest.csproj", "{FA10A815-AE16-4D03-ADB2-03FA84576498}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyVisitorTest", "MyVisitorTest\MyVisitorTest.csproj", "{B648D46D-7C9A-4FCB-8614-97819E82CDF7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF", "EF\EF.csproj", "{A84DF7A0-6103-4F57-84BF-54DB6C99A5DB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMvc", "MyMvc\MyMvc.csproj", "{33D13B98-4E12-4E56-9F64-BA2436790B3B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_Test", "WCF_Test\WCF_Test.csproj", "{83E43224-C266-4D83-ACD2-79EC8FC22A51}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_test2", "WCF_test2\WCF_test2.csproj", "{F5A18E11-BA31-4E9E-ABD4-CE2C949241FF}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WCF", "WCF", "{6AF52880-B095-4F05-B2B1-66C8044B699E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormNotifyProperty绑定控件", "WindowsFormNotifyProperty绑定控件\WindowsFormNotifyProperty绑定控件.csproj", "{9720DA4C-00B6-4F0C-88B5-B14AF15D4FD7}"
 EndProject
@@ -25,30 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FA10A815-AE16-4D03-ADB2-03FA84576498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FA10A815-AE16-4D03-ADB2-03FA84576498}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FA10A815-AE16-4D03-ADB2-03FA84576498}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FA10A815-AE16-4D03-ADB2-03FA84576498}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B648D46D-7C9A-4FCB-8614-97819E82CDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B648D46D-7C9A-4FCB-8614-97819E82CDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B648D46D-7C9A-4FCB-8614-97819E82CDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B648D46D-7C9A-4FCB-8614-97819E82CDF7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A84DF7A0-6103-4F57-84BF-54DB6C99A5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A84DF7A0-6103-4F57-84BF-54DB6C99A5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A84DF7A0-6103-4F57-84BF-54DB6C99A5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A84DF7A0-6103-4F57-84BF-54DB6C99A5DB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{33D13B98-4E12-4E56-9F64-BA2436790B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{33D13B98-4E12-4E56-9F64-BA2436790B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{33D13B98-4E12-4E56-9F64-BA2436790B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{33D13B98-4E12-4E56-9F64-BA2436790B3B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83E43224-C266-4D83-ACD2-79EC8FC22A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83E43224-C266-4D83-ACD2-79EC8FC22A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83E43224-C266-4D83-ACD2-79EC8FC22A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83E43224-C266-4D83-ACD2-79EC8FC22A51}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F5A18E11-BA31-4E9E-ABD4-CE2C949241FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5A18E11-BA31-4E9E-ABD4-CE2C949241FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5A18E11-BA31-4E9E-ABD4-CE2C949241FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5A18E11-BA31-4E9E-ABD4-CE2C949241FF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9720DA4C-00B6-4F0C-88B5-B14AF15D4FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9720DA4C-00B6-4F0C-88B5-B14AF15D4FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9720DA4C-00B6-4F0C-88B5-B14AF15D4FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -56,10 +24,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{83E43224-C266-4D83-ACD2-79EC8FC22A51} = {6AF52880-B095-4F05-B2B1-66C8044B699E}
-		{F5A18E11-BA31-4E9E-ABD4-CE2C949241FF} = {6AF52880-B095-4F05-B2B1-66C8044B699E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {707888A8-A607-4208-833A-C5A1DE5CF6C4}
