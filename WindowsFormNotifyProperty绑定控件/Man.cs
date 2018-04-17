@@ -10,7 +10,6 @@ namespace WindowsFormNotifyProperty绑定控件
     {
 
         public event ChangedHandler ChangeName;
-
         public event ChangedHandler ChangeAge;
 
         string name = string.Empty;
